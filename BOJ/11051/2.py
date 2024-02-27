@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(10 ** 7)
+sys.setsionlimit(10 ** 7)
 
 MOD = 10007
 
